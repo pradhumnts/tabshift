@@ -1,0 +1,18 @@
+.btn{
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 500;
+    box-shadow: var(--box-shadow-primary);
+    cursor: pointer;
+    transition: .3s;
+    width: fit-content;
+}
+
+.btn-primary {
+    background-color: #f8b0a671;
+    color: var(--text-color);
+}
+
+.btn-primary:hover{
+    background-color: var(--color-1);
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67.001" height="65" viewBox="0 0 67.001 65">
+  <g id="Group_238" data-name="Group 238" transform="translate(-0.074 -0.006)">
+    <g id="Group_216" data-name="Group 216" transform="translate(13.417 11.628)">
+      <rect id="Rectangle_192" data-name="Rectangle 192" width="54" height="53" rx="10" transform="translate(-0.342 0.377)" fill="#f8afa6"/>
+    </g>
+    <g id="Group_215" data-name="Group 215">
+      <rect id="Rectangle_192-2" data-name="Rectangle 192" width="54" height="54" rx="10" transform="translate(0.074 0.006)" fill="#a74b56"/>
+      <path id="Icon_metro-codepen" data-name="Icon metro-codepen" d="M28.054,12.048,15.982,4a.862.862,0,0,0-.957,0L2.955,12.048a.862.862,0,0,0-.384.717v8.047a.862.862,0,0,0,.384.717l12.071,8.047a.862.862,0,0,0,.957,0l12.071-8.047a.862.862,0,0,0,.384-.717V12.766a.862.862,0,0,0-.384-.717ZM15.5,19.777,11.023,16.79,15.5,13.8l4.481,2.987L15.5,19.777Zm.862-7.473V6.329l9.655,6.436L21.54,15.753Zm-1.724,0L9.469,15.753,4.987,12.766l9.655-6.436ZM7.914,16.79,4.3,19.2V14.377Zm1.554,1.036,5.173,3.449V27.25L4.987,20.813Zm6.9,3.449,5.173-3.449,4.481,2.988L16.366,27.25V21.275Zm6.728-4.485,3.619-2.413V19.2Z" transform="translate(11.74 10.455)" fill="#ffe9e6"/>
+    </g>
+  </g>
+</svg>

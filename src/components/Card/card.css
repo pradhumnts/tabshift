@@ -1,0 +1,8 @@
+.template-card img{
+    cursor: pointer;
+    transition: .3s;
+}
+
+.template-card img:hover{
+    transform: scale(1.05);
+}

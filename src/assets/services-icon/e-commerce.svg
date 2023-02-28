@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67.999" height="65.001" viewBox="0 0 67.999 65.001">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_202" data-name="Rectangle 202" width="28" height="28" transform="translate(798 9447)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_234" data-name="Group 234" transform="translate(0.457 -0.256)">
+    <g id="Group_216" data-name="Group 216" transform="translate(13.417 11.628)">
+      <rect id="Rectangle_192" data-name="Rectangle 192" width="54" height="54" rx="10" transform="translate(0.125 -0.372)" fill="#f8afa6"/>
+    </g>
+    <g id="Group_215" data-name="Group 215">
+      <rect id="Rectangle_192-2" data-name="Rectangle 192" width="54" height="53" rx="10" transform="translate(-0.457 0.256)" fill="#a74b56"/>
+    </g>
+    <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(-785.457 -9433.744)" clip-path="url(#clip-path)">
+      <path id="shopping_cart_FILL0_wght700_GRAD0_opsz48" d="M10.5,36.785a2.276,2.276,0,0,1-1.679-.7A2.31,2.31,0,0,1,8.123,34.4a2.275,2.275,0,0,1,.7-1.679,2.31,2.31,0,0,1,1.686-.694,2.275,2.275,0,0,1,1.679.7,2.31,2.31,0,0,1,.694,1.686,2.276,2.276,0,0,1-.7,1.679A2.31,2.31,0,0,1,10.5,36.785Zm13.222,0a2.276,2.276,0,0,1-1.679-.7,2.31,2.31,0,0,1-.694-1.686,2.275,2.275,0,0,1,.7-1.679,2.31,2.31,0,0,1,1.686-.694,2.276,2.276,0,0,1,1.679.7,2.31,2.31,0,0,1,.694,1.686,2.275,2.275,0,0,1-.7,1.679,2.31,2.31,0,0,1-1.686.694ZM9.412,14.969l3.074,6.413h9.421l3.471-6.413ZM8.024,12.258H26.537a1.993,1.993,0,0,1,1.82,1.058,2.046,2.046,0,0,1,.029,2.149l-3.9,7.074a3.8,3.8,0,0,1-1.075,1.14,2.53,2.53,0,0,1-1.475.446h-9.78L10.536,27.2H26.469v2.711h-16.3a2.58,2.58,0,0,1-2.363-1.124,2.22,2.22,0,0,1,.05-2.446l2.016-3.7L5.049,12.357H2.339V9.647H6.8Zm4.462,9.123h0Z" transform="translate(796.062 9437.354)" fill="#ffe9e6"/>
+    </g>
+  </g>
+</svg>

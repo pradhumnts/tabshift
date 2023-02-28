@@ -1,0 +1,35 @@
+.service-item{
+    position: absolute;
+    width: max-content;
+}
+.service-item.mobile-app{
+    left:30%;
+    top: 0%;
+}
+.service-item.web-development{
+    left:5%;
+    top: 35%;
+}
+.service-item.ui-design{
+    bottom: 22%;
+    left: 10%;
+}
+.service-item.e-commerce{
+    bottom: 2%;
+    left: 40%;
+}
+.service-item.templates{
+    top: 25%;
+    right: 30%;
+}
+.service-item.wordpress{
+    bottom: 30%;
+    right: 30%;
+}
+.services .service-img{
+    width: 40%;
+    margin: 100px
+}
+.service-item-mobile{
+    margin: 30px 0px;
+}

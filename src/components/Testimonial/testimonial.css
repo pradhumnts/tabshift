@@ -1,0 +1,26 @@
+.testimonial-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
+.testimonial-card .avatar{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+.swiper-class-active{
+    transform: scale(1.2);
+    transition: 1s;
+    transition-delay: .5s;
+}
+.testimonial-card .icon{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}

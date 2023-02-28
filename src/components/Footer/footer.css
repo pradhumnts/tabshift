@@ -1,0 +1,20 @@
+.logo-footer{
+    max-width: 50%;
+}
+.footer-icon{
+    border: 1px solid var(--primary-color);
+    background-color: var(--primary-color);
+    height: fit-content;
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    transition: .3s;
+    cursor: pointer;
+}
+.footer-icon img{
+    width: 20px;
+    height: 20px;
+}
+.footer-icon:hover{
+    background-color: var(--color-1)
+}

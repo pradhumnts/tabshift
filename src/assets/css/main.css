@@ -1,0 +1,19 @@
+.svg-header{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+    margin: auto;
+}
+.svg-header img{
+    position: absolute;
+    z-index: 1;
+    height: 100%;
+}
+.svg-header h2{
+    font-size: 42px;
+}
+.svg-header-text{
+    z-index: 999;
+    position: relative;
+}

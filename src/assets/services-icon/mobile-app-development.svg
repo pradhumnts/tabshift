@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67.001" height="65.001" viewBox="0 0 67.001 65.001">
+  <g id="Group_234" data-name="Group 234" transform="translate(-0.271 -0.105)">
+    <g id="Group_216" data-name="Group 216" transform="translate(13.417 11.628)">
+      <rect id="Rectangle_192" data-name="Rectangle 192" width="54" height="53" rx="10" transform="translate(-0.145 0.478)" fill="#f8afa6"/>
+    </g>
+    <g id="Group_215" data-name="Group 215">
+      <rect id="Rectangle_192-2" data-name="Rectangle 192" width="53" height="54" rx="10" transform="translate(0.271 0.105)" fill="#a74b56"/>
+      <path id="Icon_awesome-mobile-alt" data-name="Icon awesome-mobile-alt" d="M14.73,0H2.6A2.6,2.6,0,0,0,0,2.6V25.127a2.6,2.6,0,0,0,2.6,2.6H14.73a2.6,2.6,0,0,0,2.6-2.6V2.6A2.6,2.6,0,0,0,14.73,0ZM8.665,25.994A1.733,1.733,0,1,1,10.4,24.261,1.731,1.731,0,0,1,8.665,25.994Zm6.065-5.849a.652.652,0,0,1-.65.65H3.249a.652.652,0,0,1-.65-.65V3.249a.652.652,0,0,1,.65-.65H14.08a.652.652,0,0,1,.65.65Z" transform="translate(17.888 13.416)" fill="#ffe9e6"/>
+    </g>
+  </g>
+</svg>
